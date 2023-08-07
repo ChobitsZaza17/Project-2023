@@ -4,3 +4,4 @@ Step Make A Website :
 -CSS
 -Boothstrap
 -Java Script
+Changes Json settings
