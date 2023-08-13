@@ -1,0 +1,16 @@
+.typing-demo{
+display: inline-block:
+width: 10ch;
+animation: typing 5s steps(22),
+blink .5s step-end infinite alternate;
+white-space: nowrap;
+  overflow: hidden;
+  border-radius: 1px solid;
+  font-family: monospace;
+  font-size: 0.9rem;
+}
+@keyframes typing{
+  from{
+    width:0;
+  }
+}
