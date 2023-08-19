@@ -1,0 +1,16 @@
+Basic How To Using Input to :
+- Text
+- Search
+- Password
+- Url
+- Number
+- Date
+- Time
+- Month
+- Color
+- File
+- Range
+- Check-Box
+- Button
+- Reset
+- Submit
