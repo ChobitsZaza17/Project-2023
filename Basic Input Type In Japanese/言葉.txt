@@ -1,0 +1,16 @@
+From English to Japanese language
+
+Text      ->　テキシト
+Search    ->　検索
+Password  ->　パスワード
+Number	  ->　番号
+Date      ->　日付
+Time      ->　時間
+Color     ->　色
+File      ->　ファイル
+Range     ->　設定範囲
+Check-box ->　チェック
+Radio     ->　ラジオ
+Button    ->　ボタン
+Reset     ->　リセット
+Submit    ->　提出
