@@ -1,16 +1,1 @@
-Make HTML Basic How To Using Input to :
-- Search
-- Password
-- Url
-- Number
-- Date
-- Time
-- Month
-- Color
-- File
-- Range
-- Check-Box
-- Button
-- Reset
-- Submit
-
+All already done Basic How To Using Input to 
