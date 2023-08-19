@@ -1,5 +1,4 @@
 Make HTML Basic How To Using Input to :
-- Text
 - Search
 - Password
 - Url
