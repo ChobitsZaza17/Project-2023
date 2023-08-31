@@ -1,6 +1,0 @@
-Step Make A Website :
--HTML
-  Make Index HTML
--CSS
--Boothstrap
--Java Script
